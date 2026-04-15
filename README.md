@@ -41,7 +41,7 @@ Incluye:
 - visualización de datos
 - storytelling para toma de decisiones
 
-👉 (pronto disponible)
+👉 https://github.com/pvoullie/techcorp-analisis-transformacion
 
 ---
 
