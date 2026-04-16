@@ -33,6 +33,11 @@ Plataforma de Inteligencia Artificial para PYMES orientada a:
 
 ---
 
+### 🔹 Smart Sales – Taller IA aplicada a ventas
+👉 https://github.com/pvoullie/smart-sales-ia-taller
+
+---
+
 ### 🔹 Transformación Digital – TechCorp
 Proyecto de análisis de datos y narrativa ejecutiva para evaluar el impacto de la transformación digital en una empresa.
 
